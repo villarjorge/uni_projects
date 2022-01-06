@@ -6,4 +6,4 @@ Reused code in notebook form for creating the newton fractals. The code original
 
 Codigo reutilizado en un archivo notebook para crear fractales de Newton. El código fue tomado de un optimizador con Newton que creé para otra clase. Este projecto era para una clase de variable compleja. El archivo tex y pdf son los que se entregaron finalmente.
 
-<img title="Fig 1" alt="A polynomial" src="uni_projects/Newton rapshon fractal 5 - 5000 por 5000">
+<img title="Fig 1" alt="A polynomial fractal" src="https://github.com/villarjorge/uni_projects/blob/main/newton_fractals/Newton%20rapshon%20fractal%205%20-%205000%20por%205000.png">
